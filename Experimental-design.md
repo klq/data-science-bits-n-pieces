@@ -9,3 +9,5 @@
   > " ... random variation should always be the first cause considered of any change in observed results."  
 
 * I learned about the Multi-armed bandit testing [here](http://stevehanov.ca/blog/index.php?id=132)["](http://blog.thedataincubator.com/2016/07/multi-armed-bandits-2/)
+
+* A detailed explanation of [P-values](http://bactra.org/weblog/1111.html), which is one of the most mis-understood and mis-used concept in statistics
